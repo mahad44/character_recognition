@@ -1,1 +1,1 @@
-# character_recognition
+# Optical_character_recognition
